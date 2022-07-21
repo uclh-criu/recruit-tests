@@ -77,14 +77,11 @@ identify your strengths._
  2. Since the researchers will be overloaded with information from different hospitals and in different formats, you
     decide to implement a user-friendly **Web front-end** that simplifies querying the API and viewing results.
 
- 3. Thinking you could support the researchers even further, you decide to implement – as part of the API or the
-    front-end – features that analyse and **aggregate data** (e.g., number of admissions per sex).
-
- 4. You work in a team and anyone could be moved onto this project, so you write and share **documentation** about how 
+ 3. You work in a team and anyone could be moved onto this project, so you write and share **documentation** about how 
     to deploy, execute and use the tools. You also briefly explain, where applicable, your decisions on architecture,
     modelling and choice of technologies.
 
- 5. The team uses Docker and Docker Compose to deploy heterogeneous and complex technology stacks in generic Linux
+ 4. The team uses Docker and Docker Compose to deploy heterogeneous and complex technology stacks in generic Linux
     servers. You decide it’s worth providing Docker files (“Dockerfile”, “docker-compose.yml”) to ease the deployment of
     your solution. _If you have never heard of or used it, this is a great opportunity to showcase your curiosity and 
     talents dealing with a new tool!_
