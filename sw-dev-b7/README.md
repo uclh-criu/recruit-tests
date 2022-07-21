@@ -77,7 +77,7 @@ identify your strengths._
  2. Since the researchers will be overloaded with information from different hospitals and in different formats, you
     decide to implement a user-friendly **Web front-end** that simplifies querying the API and viewing results.
 
- 3. You work in a team and anyone could be moved onto this project, so you write and share **documentation** about how 
+ 3. From the team anyone could be moved onto this project, so you write and share **documentation** about how 
     to deploy, execute and use the tools. You also briefly explain, where applicable, your decisions on architecture,
     modelling and choice of technologies.
 
