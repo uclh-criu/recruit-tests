@@ -1,4 +1,4 @@
-visit_occurrence_id,person_id,visit_start_date,visit_start_datetime,visit_end_date,visit_end_datetime,admitting_source_value,discharge_to_source_value
+admission_id,patient_id,visit_start_date,visit_start_datetime,visit_end_date,visit_end_datetime,admission_source,discharge_to
 1,1,1990-12-10,1990-12-10 11:20:00,1990-12-11,1990-12-11 05:30:00,Inpatient,Discharged Alive
 2,2,1990-12-10,1990-12-10 10:20:00,1990-12-11,1990-12-11 06:45:00,Inpatient,Unknown
 3,2,1991-05-06,1991-05-06 15:08:00,1991-05-08,1991-05-08 10:18:00,Outpatient,Discharged Alive
