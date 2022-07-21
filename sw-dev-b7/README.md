@@ -104,4 +104,6 @@ identify your strengths._
 
  - If you feel uncomfortable with any technology that has been mentioned, do not worry, we are always learning! We value
    independence but we love teamwork. If you have general questions about the exercise (e.g., a requirement is not
-   clear or you are stuck installing Docker), feel free to contact the recruitment team.
+   clear or you are stuck installing Docker), feel free to contact [uclh.criu@nhs.net](mailto:uclh.criu@nhs.net) 
+   mentioning the
+   job reference.
