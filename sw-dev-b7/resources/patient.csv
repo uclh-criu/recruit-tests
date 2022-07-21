@@ -12,7 +12,7 @@ patient_id,full_name,sex_at_birth,ethnicity,year_of_birth,month_of_birth,day_of_
 11,Fatima Dickinson,F,,2000,7,16,2000-07-16 05:00:00,2001-12-16 05:30:00
 12,,F,Chinese,1980,8,16,1980-08-16 08:00:00,
 13,Cerys Ibarra,F,White British,1985,9,13,1985-09-13 10:05:00,
-14,Marcus Millar,,1966,10,18,1966-10-18 19:08:00,
+14,Marcus Millar,,Other Mixed,1966,10,18,1966-10-18 19:08:00,
 15,Li Qiang-Wu,M,Chinese,1935,6,15,1935-06-15 17:30:00,
 16,Percy Stone,M,Black African,1942,6,7,1942-06-07 21:45:00,
 17,Jenny Kay-Wang,F,Chinese,1981,3,15,1981-03-15 21:46:00,2018-08-11 09:30:00
